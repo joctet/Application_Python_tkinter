@@ -7,4 +7,5 @@ Un exemple d'application python dont l'interface graphique est codée avec la bi
 
 ### III. Générer un nouveau fichier Excel avec les données modifiées du dataframe
 
-## Un tutoriel détaillé est disponible au lien suivant  : https://josephinepicot.medium.com/coder-une-application-en-python-avec-tkinter-interface-graphique-simple-qui-sexporte-facilement-19583907fafb
+# Tutoriel
+Un tutoriel détaillé est disponible au lien suivant  : https://josephinepicot.medium.com/coder-une-application-en-python-avec-tkinter-interface-graphique-simple-qui-sexporte-facilement-19583907fafb
